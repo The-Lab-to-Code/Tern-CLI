@@ -22,6 +22,7 @@ Before running `closh-CLI`, ensure your environment meets the following requirem
 This program has commands that have access to your filesystem (as any other language does). Do not run any random delete commands, which risks deleting important files. **Always** delete files in a safe manner. 
 
 Do: `file.system.remove("helloworld.txt")` <- Files that are harmless to the computer
+
 Don't: `file.system.remove("system32")` <- Files that can severely damage or ruin the computer/operating system
 
 Closh v3.25
