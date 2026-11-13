@@ -15,9 +15,9 @@ Before running `Tern-CLI`, ensure your environment meets the following requireme
 
 ## Installation & Running
 
-* **Windows:** When you have finished downloading the zip file `ternZipped.zip`, unzip the file into a folder. Then, run the `.bat` file. The CLI will launch automatically.
-* **macOS:** When you have finished downloading `ternZipped.zip`, double-click the file in Finder (or run `unzip ternZipped.zip` in Terminal) to extract it into a folder. Open Terminal, navigate to the extracted folder (`cd path/to/folder`), make the shell script executable (`chmod +x tern.sh`), and run `./tern.sh` to launch the CLI. *(Note: If macOS Gatekeeper blocks the script on first run, right-click the file and select **Open**, or allow it under **System Settings > Privacy & Security**.)*
-* **Linux:** When you have finished downloading `ternZipped.zip`, extract it into a folder using your file manager or `unzip ternZipped.zip -d tern-cli`. Open your terminal, navigate to the folder (`cd tern-cli`), grant execution permissions (`chmod +x tern.sh`), and run `./tern.sh` to launch the CLI.
+* **Windows:** When you have finished downloading the zip file `TernZipped.zip`, unzip the file into a folder. Then, run the `.bat` file. The CLI will launch automatically.
+* **macOS:** When you have finished downloading `TernZipped.zip`, double-click the file in Finder (or run `unzip TernZipped.zip` in Terminal) to extract it into a folder. Open Terminal, navigate to the extracted folder (`cd path/to/folder`), make the shell script executable (`chmod +x tern.sh`), and run `./tern.sh` to launch the CLI. *(Note: If macOS Gatekeeper blocks the script on first run, right-click the file and select **Open**, or allow it under **System Settings > Privacy & Security**.)*
+* **Linux:** When you have finished downloading `TernZipped.zip`, extract it into a folder using your file manager or `unzip TernZipped.zip -d tern-cli`. Open your terminal, navigate to the folder (`cd tern-cli`), grant execution permissions (`chmod +x tern.sh`), and run `./tern.sh` to launch the CLI.
 
 This program has commands that have access to your filesystem (as any other language does). Do not run any random delete commands, which risks deleting important files. **Always** delete files in a safe manner. 
 
